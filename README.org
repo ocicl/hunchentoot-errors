@@ -2,9 +2,8 @@
 
 Augments Hunchentoot error pages and logs with request and session information.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/mmontone/hunchentoot-errors.git   |
-| commit  | 171abe2  |
-| systems | hunchentoot-errors |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/mmontone/hunchentoot-errors.git |
+| commit  | 171abe2                                                |
+| systems | hunchentoot-errors                                     |
+|---------+--------------------------------------------------------|
