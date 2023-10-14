@@ -4,6 +4,6 @@ Augments Hunchentoot error pages and logs with request and session information.
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/mmontone/hunchentoot-errors.git |
-| commit  | 171abe2                                                |
+| commit  | 69eb3bc                                                |
 | systems | hunchentoot-errors                                     |
 |---------+--------------------------------------------------------|
